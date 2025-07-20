@@ -3,7 +3,7 @@ Author - Ishant Kumar
 # 🌐 CodSoft Landing Page
 
 ![Status](https://img.shields.io/badge/Live%20Demo-Available-00bfff?style=flat-square&logo=githubpages)
-![Internship](https://img.shields.io/badge/Task%203-Level%201-orange?style=flat-square&logo=codersrank)
+![Internship](https://img.shields.io/badge/Task%202-Level%201-orange?style=flat-square&logo=codersrank)
 ![Made by Ishant](https://img.shields.io/badge/Made%20by-Ishant%20Kumar-blueviolet?style=flat-square)
 
 > A sleek and responsive **Landing Page** built with HTML & CSS as part of **Task 2 Level 1** of my internship at **CodSoft**.
@@ -12,7 +12,7 @@ Author - Ishant Kumar
 
 ## 🚀 Live Demo
 
-🌐 [Visit Website]()  
+🌐 [Visit Website](https://ishantcode.github.io/Codsoft-Landing_Page/)  
 📂 [GitHub Repository](https://github.com/Ishantcode/Codsoft-Landing_Page.git)
 
 ---
@@ -30,7 +30,8 @@ Author - Ishant Kumar
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3  
+- CSS3
+- JAVASCRIPT
 
 ---
 
