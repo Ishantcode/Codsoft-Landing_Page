@@ -12,7 +12,7 @@ Author - Ishant Kumar
 
 ## 🚀 Live Demo
 
-🌐 [Visit Website]()  
+🌐 [Visit Website](https://ishantcode.github.io/Codsoft-Landing_Page/)  
 📂 [GitHub Repository](https://github.com/Ishantcode/Codsoft-Landing_Page.git)
 
 ---
@@ -30,7 +30,8 @@ Author - Ishant Kumar
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3  
+- CSS3
+- JAVASCRIPT
 
 ---
 
